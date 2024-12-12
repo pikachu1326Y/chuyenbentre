@@ -35,3 +35,62 @@
     <script src="script.js"></script>
 </body>
 </html>
+/* Hiệu ứng tiêu đề header */
+.header-animate {
+    animation: slide-down 1.5s ease-out;
+}
+
+@keyframes slide-down {
+    from {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Hiệu ứng fade-in cho các section */
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s, transform 1s;
+}
+
+.fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Hiệu ứng hover cho nút */
+.btn-hover {
+    color: white;
+    background-color: #007BFF;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-hover:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);
+}
+
+/* Hiệu ứng bounce cho footer */
+.footer-bounce {
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
+}
