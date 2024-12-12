@@ -19,7 +19,7 @@
     <section id="about-class" class="fade-in">
         <h2>Giới thiệu lớp</h2>
         <p>Lớp 12 Lý là một tập thể đoàn kết, nhiệt huyết với nhiều thành tích nổi bật trong học tập và các hoạt động ngoại khóa.</p>
-        <img src="class-photo.jpg" alt="Ảnh lớp 12 Lý">
+        <img src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">="Ảnh lớp 12 Lý">
     </section>
     <section id="about-school" class="fade-in">
         <h2>Giới thiệu Trường Chuyên Bến Tre</h2>
