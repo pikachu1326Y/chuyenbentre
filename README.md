@@ -24,7 +24,7 @@
     <section id="about-school" class="fade-in">
         <h2>Giới thiệu Trường Chuyên Bến Tre</h2>
         <p>Trường Chuyên Bến Tre là nơi nuôi dưỡng và phát triển các tài năng trẻ, với nhiều thành tích nổi bật trên các đấu trường quốc gia và quốc tế.</p>
-        <img src="https://www.google.com/imgres?q=truong%20thpt%20chuyen%20ben%20tre&imgurl=https%3A%2F%2Fthptchuyenbentre.edu.vn%2Fuploads%2Fnews%2F2020_08%2F7798_2992015_11367.jpg&imgrefurl=https%3A%2F%2Fthptchuyenbentre.edu.vn%2Fthong-bao%2Fthong-bao-268.html&docid=4mNBbhBLLEKeBM&tbnid=9nW4r_KpGFqlKM&vet=12ahUKEwigmKzGlKGKAxXMafUHHWpDLWUQM3oECGIQAA..i&w=500&h=315&hcb=2&ved=2ahUKEwigmKzGlKGKAxXMafUHHWpDLWUQM3oECGIQAA" alt="Ảnh Trường Chuyên Bến Tre">
+        <img src="https://github.com/user-attachments/assets/158ee20e-3933-487e-8355-99ae74d5ed49>="Ảnh Trường Chuyên Bến Tre">
     </section>
     <footer id="contact" class="footer-bounce">
         <h2>Liên hệ</h2>
